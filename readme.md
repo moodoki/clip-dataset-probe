@@ -1,6 +1,8 @@
 # CLIP Dataset Probe
 
-Let's try using CLIP to look at some image datset and see what we get.,
+Let's try using [CLIP](https://github.com/openai/CLIP) to look at some image datset and see what we
+get. CLIP authors claimed that CLIP can be used as a zero-shot classifier. Let's see how good it
+performs with a bunch of text queries.
 
 
 # Setup
