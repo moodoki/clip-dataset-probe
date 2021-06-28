@@ -1,0 +1,42 @@
+man
+woman
+young man
+young woman
+boy
+girl
+infant
+adult
+child
+looking left
+looking right
+looking down
+looking up
+person's left profile face
+person's right profile face
+person with mustache
+person without mustache
+person with facial hair
+person without facial hair
+person with long hair
+person with short hair
+person with blonde hair
+person with white hair
+person with black hair
+person with brown hair
+person with red hair
+bald person
+smiling person
+sad person
+laughing person
+crying person
+angry person
+talking person
+person in fear
+person in pain
+person wearing sunglasses
+person wearing eyeglasses
+person wearing glasses
+person with a hat
+person with face paint
+person wearing earrings
+person with a nosering
