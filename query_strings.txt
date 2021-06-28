@@ -40,3 +40,10 @@ person with a hat
 person with face paint
 person wearing earrings
 person with a nosering
+White person
+Black person
+East Asian person
+Southeast Asian person
+Middle Eastern person
+Latino or Hispanic person
+Indian person
